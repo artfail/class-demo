@@ -1,4 +1,7 @@
-﻿using System.Collections;
+﻿//This is the file that lets my player move
+
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
